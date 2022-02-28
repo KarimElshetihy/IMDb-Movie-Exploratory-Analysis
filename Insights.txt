@@ -1,0 +1,51 @@
+Movies:
+
+- Intersteller got the  highest likes by 344,000 likes and IMDb score of 8.6, followed by Django Unchained with 199,000 likes and score of 8.5.
+
+- In the period between 1920 and 1994, 1 or 2  movies  were filmed yearly as an average, but from  1995 to 2015 that average increased to 151 movies yearly.
+
+- 5 hours and 30 minutes are the duration of the longest movie which is an american crime movie Blood In, Blood Out, in 1993.
+
+- People prefer Comedy movies the most, 998 were comedy movies from 3672, and 44% rated as over 18.
+
+- Most of Family movies were Adventure movies by 222 of 358.
+
+- Most of Teen movies were Action movies by 398 of 896.
+
+- 36 Over-18 movies were filmed yearly as they are 46% of all IMDb movies.
+
+- The top preferd genres were Comedy, Action, Drama, Crime, then Horror, according to likes.
+
+
+
+Actos & Directors:
+
+- Johnny Depp is the most liked actor by 1,320,000 likes and 33  movies, with total 3719 minutes of filming in Action, Biography, and Drama.
+
+- Steven Spielberg is the most liked Director with 336,000 likes, he directed 24 movies, 23 were in USA, and 14 of them were Action and Drama.
+
+- Harison Ford has the highest total revenue for all his movies with 3.4 billion dollars, followed by Tom Hanks with 3.3 billion dollars,  then Johnny Depp with 3.2 billion dollars.
+
+- Steven Spielberg has the highest total revenue for all his movies with 4 billion dollars, followed by Michael Bay with 2.14 billion dollars, then Peter Jackson with 2.11 billion dollars. 
+
+
+
+Genres & Rates:
+
+- Action movies have the highest revenue with 67.5 billion dollars and 62.3 billion dollars as budget, followed by Comedy movies with revenue of 38.1 billion dollars and budget of 35.3 billion dollars.
+
+- Teens movies have the highest revenue with 83.1 billion dollars and 67.5 billion dollars as budget, followed by Over-18 movies with revenue of 52.5 billion dollars and budget of 63.8 billion dollars.
+
+
+Countries:
+
+- USA was the top in most fields with:
+    o Budget of 114.6 billion  dollars, and 165.6 billion dollars as Revenue.
+
+    o 2920 total movies. The most liked Intersteller, Django Unchained, The Revenant.
+
+    o  29% Comedy, and 24% Action.
+
+    o 319,400 minutes.
+
+    o 1153 Actors, and 1383 Directors.
